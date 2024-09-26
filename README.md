@@ -22,5 +22,6 @@ Testet on Arduino Pro Mini (5V)
 4. Open serial monitor with baudrate 9600
 
 # To-do 
-Build a sketch with knx support, to build your own weatherstation
+Build a sketch with knx support, to build your own weatherstation -> follow:
+
 https://github.com/doubery/Davis-Anemometer-Arduino-KNX
