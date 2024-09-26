@@ -9,7 +9,7 @@ Simple program to display values on serial monitor
 
 Testet on Arduino Pro Mini (5V)
 
-Wireing 
+Wireing \n
         - - - yellow to VCC (3.3 V)
         - - - green to pin A0
         - - - red to GND
@@ -20,6 +20,7 @@ Wireing
 Here's a wiring diagram to connect the Davis anemometer to an Arduino thanks to the good folks at [cactus.io](http://cactus.io/hookups/weather/anemometer/davis/hookup-arduino-to-davis-anemometer):
 
 ![alt tag](https://github.com/doubery/Davis-Anemometer-Arduino/raw/master/arduino-to-davis-anemometer-hookup-circuit.jpg)
+![alt tag](https://github.com/wrybread/ArduinoWeatherStation/raw/master/arduino-to-davis-anemometer-hookup-circuit.jpg)
 
 
 ### To-do 
