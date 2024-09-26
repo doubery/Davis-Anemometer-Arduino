@@ -19,7 +19,6 @@ Wireing \n
 
 Here's a wiring diagram to connect the Davis anemometer to an Arduino thanks to the good folks at [cactus.io](http://cactus.io/hookups/weather/anemometer/davis/hookup-arduino-to-davis-anemometer):
 
-![alt tag](https://github.com/doubery/Davis-Anemometer-Arduino/raw/master/arduino-to-davis-anemometer-hookup-circuit.jpg)
 ![alt tag](https://github.com/wrybread/ArduinoWeatherStation/raw/master/arduino-to-davis-anemometer-hookup-circuit.jpg)
 
 
