@@ -23,3 +23,4 @@ Testet on Arduino Pro Mini (5V)
 
 # To-do 
 Build a sketch with knx support, to build your own weatherstation
+https://github.com/doubery/Davis-Anemometer-Arduino-KNX
