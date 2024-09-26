@@ -6,8 +6,6 @@ https://github.com/wrybread/ArduinoWeatherStation
 
 Works with a Davis anemometer.
 
-See 
-
 Simple program to display values on serial monitor
 
 Testet on Arduino Pro Mini (5V)
